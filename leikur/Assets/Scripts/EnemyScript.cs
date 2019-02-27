@@ -32,7 +32,12 @@ public class EnemyScript : MonoBehaviour
                 player.health--;//spilarin meidist
                 Debug.Log(player.health);
                 Destroy(gameObject);//ovinur hverfur eftir ad meida
-            }
         }
-    }
+        if (other.CompareTag("Projectile"))
+        {
+            Destroy(other.gameObject);
+            Destroy(gameObject);
+        }
+        }
+}
 
