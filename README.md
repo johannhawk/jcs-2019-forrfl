@@ -1,37 +1,27 @@
 ## Leikjaforritun
 
-You can use the [editor on GitHub](https://github.com/johannhawk/jcs-2019-forrfl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Jóhann Chanse Sigurðsson
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lýsing
 
-### Markdown
+Hægri músasmell til að skipta frá 'stærri byssu + skot-skjöld' yfir í 'smærri byssu + orku skot' og svo til baka.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-aaaaaaaaaaaa
-```markdown
-Syntax highlighted code block
+Vinstri smellur til að nota byssuna, stærri hægari byssan getur skotið í gegnum appelsínugul veggi enn óvinir geta það líka.
 
-# Header 1
-## Header 2
-### Header 3
+`Spacebar` til að nota orku, sem er annahvort 'skot-skjöld' sem stoppa bar skot eða 'orku skot' sem fara í gegnum öll vegg enn ekki mjög langt, þetta kostar orku sem kemur til baka hægt.
 
-- Bulleted
-- List
+`R` til að hlaða byssur, ef það vantar helming eða meira í stóru byssuni þá hleðuru meira enn eitt skot í einu.
 
-1. Numbered
-2. List
+`V` til að resetta leikin
 
-**Bold** and _Italic_ and `Code` text
+`P` til að stöðva leikin
 
-[Link](url) and ![Image](src)
-```
+Spilarin þarf bara að vera meiddur tvisar til að resetta leikin.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Tengill til niðurhal
 
-### Jekyll Themes
+### Upptaka
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johannhawk/jcs-2019-forrfl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Github link aftur
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://github.com/johannhawk/jcs-2019-forrfl/tree/master
