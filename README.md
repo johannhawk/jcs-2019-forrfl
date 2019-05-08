@@ -24,4 +24,7 @@ Spilarin þarf bara að vera meiddur tvisar til að resetta leikin.
 
 ### Github link aftur
 
-https://github.com/johannhawk/jcs-2019-forrfl/tree/master
+Hérna er önnur github link ef þér langar ekki að nota linkið efst á síðunni.
+
+[Github link](https://github.com/johannhawk/jcs-2019-forrfl/tree/master)
+
