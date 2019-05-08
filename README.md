@@ -1,4 +1,4 @@
-## Welcome to GitHub Pag
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/johannhawk/jcs-2019-forrfl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+aaaaaaaaaaaa
 ```markdown
 Syntax highlighted code block
 
