@@ -24,7 +24,7 @@ Spilarin þarf bara að vera meiddur tvisar til að resetta leikin.
 
 Tók meira tíma enn ég hélt til að laga villu, sérstaklega þegar það hafði engan áhrif á hvernig leikurin spilar. Villan var að Orku fjöldinn var að telja tvisar þegar það fékk orku til baka.
 
-Mér líkar vel við hvernig ég setti upp byssurnar fyrir spilaran, stóra byssan er kóðuð til að líkjast "Lee-Enfield" rifillin og litla byssan er bara lítill einföld skammbyssa.
+Mér líkar vel við hvernig ég setti upp byssurnar fyrir spilaran. Það eru sprites fyrir hversu mikill skot eru eftir. Stóra byssan er kóðuð til að líkjast "Lee-Enfield" rifillin og litla byssan er bara lítill einföld skammbyssa.
 
 Flest að grafíkin í leiknum eru enþá bara "placeholders" enn einn að þeim er sprite fyrir aðra leik sem ég gerði sem einn af mörgum sjálfboðaliða. Ég lánaði sprites úr sama leikin til að nota sem placeholders.
 
@@ -36,7 +36,7 @@ Allt annað var ekki sérstaklega flókið til að setja saman eða lagfæra.
 
 ### Upptaka
 
-
+https://www.youtube.com/watch?v=EcSk2MzahVM&feature=youtu.be&hd=1
 
 ### Github link aftur
 
