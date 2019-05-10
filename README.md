@@ -18,6 +18,10 @@ Vinstri smellur til að nota byssuna, stærri hægari byssan getur skotið í ge
 
 Spilarin þarf bara að vera meiddur tvisar til að resetta leikin.
 
+Það eru tveir tegundir að óvinum, einn sem flýgur beint í þig eins og deyr eins og geitungur þegar það meiðir þig.
+
+Hinn skýtur á þig og getur skotið í gegnum gul vegg, þau bakka í burtu ef þú fer of nálegt enn annarsvegar koma nær þar til þau stoppa eða veggur stoppar þau.
+
 ### Verk Athugasemdir
 
 Ég var meira að vanda mig á að læra unity enn að gera frábærann leik.
