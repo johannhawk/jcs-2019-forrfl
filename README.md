@@ -22,7 +22,7 @@ Spilarin þarf bara að vera meiddur tvisar til að resetta leikin.
 
 Ég var meira að vanda mig á að læra unity enn að gera frábærann leik.
 
-Tók meira tíma enn ég hélt til að laga villu, sérstaklega þegar það hafði engan áhrif á hvernig leikurin spilar. Villan var að Orku fjöldinn var að telja tvisar þegar það fékk orku til baka.
+Tók meira tíma enn ég hélt til að laga eina villu, sérstaklega þegar það hafði engan áhrif á hvernig leikurin spilar. Villan var að Orku fjöldinn var að telja tvisar þegar það fékk orku til baka.
 
 Mér líkar vel við hvernig ég setti upp byssurnar fyrir spilaran. Það eru sprites fyrir hversu mikill skot eru eftir. Stóra byssan er kóðuð til að líkjast "Lee-Enfield" rifillin og litla byssan er bara lítill einföld skammbyssa.
 
