@@ -30,7 +30,7 @@ Tók meira tíma enn ég hélt til að laga eina villu, sérstaklega þegar þa�
 
 Mér líkar vel við hvernig ég setti upp byssurnar fyrir spilaran. Það eru sprites fyrir hversu mikill skot eru eftir. Stóra byssan er kóðuð til að líkjast "Lee-Enfield" rifillin og litla byssan er bara lítill einföld skammbyssa.
 
-Flest að grafíkin í leiknum eru enþá bara "placeholders" enn einn að þeim er sprite fyrir aðra leik sem ég gerði sem einn af mörgum sjálfboðaliða. Ég lánaði sprites úr sama leikin til að nota sem placeholders.
+Flest að grafíkin í leiknum eru enþá bara "placeholders" enn einn að þeim er sprite fyrir aðra leik sem ég gerði sem einn af mörgum sjálfboðaliða. Ég fékk sprites úr sama leikin til að nota sem placeholders. Ónotuð hljóðskrá voru líka tekin úr sama leiknum.
 
 Allt annað var ekki sérstaklega flókið til að setja saman eða lagfæra.
 
