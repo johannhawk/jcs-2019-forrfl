@@ -36,7 +36,7 @@ Allt annað var ekki sérstaklega flókið til að setja saman eða lagfæra.
 
 ### Upptaka
 
-https://www.youtube.com/watch?v=EcSk2MzahVM&feature=youtu.be&hd=1
+[Upptöku link](https://www.youtube.com/watch?v=EcSk2MzahVM&feature=youtu.be&hd=1)
 
 ### Github link aftur
 
