@@ -1,4 +1,4 @@
-## Leikjaforritun
+## Leikjaforritun 2019
 
 Jóhann Chanse Sigurðsson
 
@@ -32,7 +32,7 @@ Allt annað var ekki sérstaklega flókið til að setja saman eða lagfæra.
 
 ### Tengill til niðurhal
 
-[Click til að niðurhala frá github](https://github.com/johannhawk/jcs-2019-forrfl/raw/master/v5.zip))
+[Click til að niðurhala frá github](https://github.com/johannhawk/jcs-2019-forrfl/raw/master/v5.zip)
 
 ### Upptaka
 
